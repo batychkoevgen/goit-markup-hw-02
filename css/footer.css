@@ -8,7 +8,10 @@
   line-height: 1.33333;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #fff;
+  color: #f4f4fd;
+}
+.logo-footer .accent {
+  color: #4d5ae5;
 }
 
 .footer-text {
