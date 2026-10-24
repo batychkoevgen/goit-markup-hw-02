@@ -9,6 +9,8 @@
 .portfolio-item {
 }
 .portfolio-ill {
+  width: 264px;
+  height: 380px;
 }
 .portfolio-caption {
   font-weight: 500;
